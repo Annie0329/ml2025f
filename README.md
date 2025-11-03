@@ -19,7 +19,7 @@
   - [V] medium baseline
   - [V] strong baseline
 - [ ] HW5
-  - [ ] 心得
+  - [V] 心得
   - [V] simple baseline
   - [V] medium baseline
   - [ ] strong baseline

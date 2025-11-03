@@ -156,7 +156,9 @@
     <!-- ------------------------------------------------>
     <div class="row hw12">
       <div class="col-md-12 twenty">
-        100字心得
+        動脈標註的訓練比心臟標註的訓練快多了，20個Epochs只要15分鐘。在嘗試medium
+        baseline時，一開始嘗試重頭訓練40個Epochs，沒想到分數比重頭20個Epoch還低（0.941），後來是先訓練20個Epochs，再接續訓練20個Epochs，分數才超過simple
+        baseline。這令我很驚訝，之前的經驗是是重頭訓練效果比較好，看來每個模型都不一樣。
       </div>
     </div>
 
@@ -187,7 +189,7 @@
             <td>Strong baseline - 使用不同版本、大小模型進行訓練並繳交 Colab</td>
           </tr>
           <tr>
-            <td><input type="checkbox" class="flipswitch" id="myCheckbox4" checked></td>
+            <td><input type="checkbox" class="flipswitch" id="myCheckbox4"></td>
             <td id='m4'>-10</td>
             <td>沒有寫100字心得</td>
           </tr>
