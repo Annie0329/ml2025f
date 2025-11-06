@@ -10,7 +10,7 @@
   - [ ] strong baseline
 - [ ] HW3
   - [ ] 心得
-  - [ ] simple baseline
+  - [V] simple baseline
   - [ ] medium baseline
   - [ ] strong baseline
 - [V] HW4
@@ -25,6 +25,6 @@
   - [ ] strong baseline
 - [ ] HW6
   - [ ] 心得
-  - [ ] simple baseline
-  - [ ] medium baseline
+  - [V] simple baseline
+  - [V] medium baseline
   - [ ] strong baseline
