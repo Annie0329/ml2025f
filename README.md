@@ -28,12 +28,12 @@
   - [V] medium baseline
   - [ ] strong baseline
 
-- [ ] HW6
-  - [ ] 心得
+- [V] HW6
+  - [V] 心得
   - [V] simple baseline
   - [V] medium baseline
   - [V] strong baseline
   
-- [ ] 期中計畫
+- [X] 期中計畫
   - [V] 比賽1(medium)
   - [V] 比賽2(simple)
