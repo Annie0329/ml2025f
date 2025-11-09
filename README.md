@@ -10,8 +10,8 @@
   - [V] medium baseline
   - [ ] strong baseline
 
-- [ ] HW3
-  - [ ] 心得
+- [X] HW3
+  - [V] 心得
   - [V] simple baseline
   - [V] medium baseline
   - [ ] strong baseline
