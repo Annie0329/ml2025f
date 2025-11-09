@@ -32,7 +32,7 @@
   - [ ] 心得
   - [V] simple baseline
   - [V] medium baseline
-  - [ ] strong baseline
+  - [V] strong baseline
   
 - [ ] 期中計畫
   - [V] 比賽1(medium)
