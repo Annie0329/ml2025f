@@ -4,7 +4,7 @@
   - [V] medium baseline
   - [V] strong baseline
 
-- [ ] HW2
+- [X] HW2
   - [V] 心得
   - [V] simple baseline
   - [V] medium baseline
@@ -22,7 +22,7 @@
   - [V] medium baseline
   - [V] strong baseline
 
-- [ ] HW5
+- [X] HW5
   - [V] 心得
   - [V] simple baseline
   - [V] medium baseline
@@ -36,4 +36,4 @@
   
 - [ ] 期中計畫
   - [V] 比賽1(medium)
-  - [ ] 比賽2(simple)
+  - [V] 比賽2(simple)
