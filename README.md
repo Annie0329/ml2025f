@@ -34,6 +34,6 @@
   - [V] medium baseline
   - [V] strong baseline
   
-- [X] 期中計畫
+- [V] 期中計畫
   - [V] 比賽1(medium)
-  - [V] 比賽2(simple)
+  - [V] 比賽2(medium)
